@@ -1,5 +1,9 @@
-# Singapore Airbnb Listings - Exploratory Data Analysis
+# Singapore Airbnb Listings - Exploratory Data Analysis (EDA)
 Portfolio Project Bootcamp Data Analyst with Python & SQL[^1]
+
+Slides containing summary result of this EDA findings: `Summary of Findings.pdf`
+
+Python code for Dash Plotly dashboard: `eda-airbnb-spore.py`
 
 ## Tentang Project
 DQLab sebagai perusahaan data mendapatkan permintaan klien yang berasal dari Singapura. Calon owner (pemilik) property tersebut akan menyewakan properti di
